@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hola! Soy Diego
+Llevo más de 3 años de experiencia en el desarrollo de software, me especializo en la creación de videojuegos y aplicaciones web.
+Ofrezco horas de consultoría para la organización y gestión de tus proyectos.
 
-<!--
-**dadpManager/dadpManager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dejo que mi trabajo hable por mi, Puedes contactarme a través de 
 
-Here are some ideas to get you started:
+mi discord: @thedadp_2805
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mi Gmail: dadpdesigner@gmail.com
+
+o a través de mi redes.
+
+## Habilidades
+
+### Gestión y Organización
+
+- Gestion de equipo y proyectos
+- Organización Administrativa
+
+### Dev
+- GameDev With Unity
+- C#
+- python
+- Django
+- SQL (MySQL)
